@@ -8,5 +8,4 @@ def display_board(board)
   puts "   |   |   "
 end
 
-x = 1+1
-puts "#{x}"
+
