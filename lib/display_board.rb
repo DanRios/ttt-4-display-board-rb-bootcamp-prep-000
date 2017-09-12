@@ -9,5 +9,3 @@ def display_board(move = board)
   puts "-----------"
   puts " #{move[6]} | #{move[7]} | #{move[8]} "
 end
-
-
