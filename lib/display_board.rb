@@ -7,3 +7,6 @@ def display_board(board)
   puts "-----------"
   puts "   |   |   "
 end
+
+x = 1+1
+puts "#{x}"
